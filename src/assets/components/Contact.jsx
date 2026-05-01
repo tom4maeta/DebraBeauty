@@ -62,9 +62,8 @@ const Contact = () => {
               <FaMapMarkerAlt className="text-rose-500 text-lg mt-1" />
               <div>
                 <h4 className="font-semibold">Location</h4>
-                <p>Nairobi CBD</p>
-                <p>Moi Avenue Street, Beauty Plaza</p>
-                <p>2nd Floor, Room 12</p>
+                <p>9654, 229st ,</p>
+                <p>NW , Edmonton Alberta</p>
               </div>
             </div>
 
@@ -72,7 +71,7 @@ const Contact = () => {
               <FaPhoneAlt className="text-rose-500 text-lg mt-1" />
               <div>
                 <h4 className="font-semibold">Phone</h4>
-                <p>+254 712 345 678</p>
+                <p>+1(780) 243-7368</p>
               </div>
             </div>
 

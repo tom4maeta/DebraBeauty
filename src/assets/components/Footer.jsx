@@ -74,7 +74,7 @@ const Footer = () => {
             </p>
 
             <p className="text-sm text-gray-600 mt-2">
-              📞 +1(780)243-7368
+              📞 +1(780) 243-7368
             </p>
 
             <p className="text-sm text-gray-600 mt-2">
