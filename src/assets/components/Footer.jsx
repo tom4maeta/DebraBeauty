@@ -70,11 +70,11 @@ const Footer = () => {
             </h3>
 
             <p className="text-sm text-gray-600">
-              📍 Nairobi CBD, Moi Avenue Street
+              📍 9654, 229st , NW , Edmonton Alberta
             </p>
 
             <p className="text-sm text-gray-600 mt-2">
-              📞 +254 712 345 678
+              📞 +1(780)243-7368
             </p>
 
             <p className="text-sm text-gray-600 mt-2">
