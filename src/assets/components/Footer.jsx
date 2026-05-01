@@ -78,7 +78,7 @@ const Footer = () => {
             </p>
 
             <p className="text-sm text-gray-600 mt-2">
-              ✉️ support@deborahbeauty.co.ke
+              ✉️ support@deborahbeauty.com
             </p>
           </div>
 
