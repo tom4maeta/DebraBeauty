@@ -62,8 +62,8 @@ const Contact = () => {
               <FaMapMarkerAlt className="text-rose-500 text-lg mt-1" />
               <div>
                 <h4 className="font-semibold">Location</h4>
-                <p>9654, 229st ,</p>
-                <p>NW , Edmonton Alberta</p>
+                <p>9654, 229st , NW , Edmonton Alberta</p>
+               
               </div>
             </div>
 
