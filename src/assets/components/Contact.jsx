@@ -79,7 +79,7 @@ const Contact = () => {
               <FaEnvelope className="text-rose-500 text-lg mt-1" />
               <div>
                 <h4 className="font-semibold">Email</h4>
-                <p>support@deborahbeauty.co.ke</p>
+                <p>support@deborahbeauty.com</p>
               </div>
             </div>
 
